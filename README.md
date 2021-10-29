@@ -1,4 +1,4 @@
-# PRWeb Everest Front End Tests
+# Celerity Team
 
 This repo uses the Webdriver.io with Mocha frameworks to test
 
